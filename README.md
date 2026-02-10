@@ -11,24 +11,29 @@
   /> 
   </p>
 
-https://github.com/purple-duo/eclipsefedaresoalivetrustme/blob/main/tumblr_099ce9aaf4092c266870cf4265e3b647_6024aa22_1280.jpg
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pinyon+Script&duration=3500&pause=200&color=EECCFF&multiline=true&width=480&height=61&lines=I'll+see+you+around%3F;I'll..+see+you+around.)](https://git.io/typing-svg)
-
 </p>
 <img
-  src=""
+  src="https://github.com/purple-duo/eclipsefedaresoalivetrustme/blob/main/dumb.jpg"
   width="300"
   align="right"
   /> 
   </p>
+
+   <p align="right">‎
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pinyon+Script&duration=3500&pause=200&color=EECCFF&multiline=true&width=480&height=61&lines=I'll+see+you+around%3F;I'll..+see+you+around."
+  /></a> 
+
   
 <hr/>
 <p align="center">
 </p>
 
 <p align="center">
-ɪᴍᴀɢᴇ ᴄʀ : <a href="https://x.com/zelyonayatochk"> @zelyonayatochk
+cr :: <a href="https://x.com/zelyonayatochk"> @zelyonayatochk
+ <a href="https://www.tumblr.com/mellohiizz"> @mellohiizz </a>
+  
 </p>
 
   ![#594D50](https://komarev.com/ghpvc/?username=purple-duo)
+
+  
