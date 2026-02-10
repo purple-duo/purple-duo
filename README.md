@@ -36,11 +36,10 @@ cr :: <a href="https://x.com/zelyonayatochk"> @zelyonayatochk
 
   ![#594D50](https://komarev.com/ghpvc/?username=purple-duo)
 
-  
 </p>
 <img
-  src="https://github.com/purple-duo/eclipsefedaresoalivetrustme/blob/main/IMG_20260208_141239_784.png"
- width="700"
-  align="center"
+  src="https://github.com/purple-duo/eclipsefedaresoalivetrustme/blob/main/thing.png"
+ width="400"
+  align="right"
   /> 
   </p>
