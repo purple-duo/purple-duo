@@ -10,7 +10,17 @@
   align="center"
   /> 
   </p>
-
+  <hr/>
+<p align="center">
+</p>
+</p>
+<img
+  src="https://github.com/purple-duo/purple-duo/blob/main/w.webp"
+   width="200"
+   align="left"
+  /> 
+  </p>
+  
 </p>
 <img
   src="https://github.com/purple-duo/purple-duo/blob/main/dumb.jpg"
@@ -36,10 +46,3 @@ cr :: <a href="https://x.com/zelyonayatochk"> @zelyonayatochk
 
   ![#594D50](https://komarev.com/ghpvc/?username=purple-duo)
 
-</p>
-<img
-  src="https://github.com/purple-duo/purple-duo/blob/main/thing.png"
- width="400"
-  align="right"
-  /> 
-  </p>
