@@ -11,11 +11,16 @@
   /> 
   </p>
 
+https://github.com/purple-duo/eclipsefedaresoalivetrustme/blob/main/tumblr_099ce9aaf4092c266870cf4265e3b647_6024aa22_1280.jpg
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pinyon+Script&duration=3500&pause=200&color=EECCFF&multiline=true&width=480&height=61&lines=I'll+see+you+around%3F;I'll..+see+you+around.)](https://git.io/typing-svg)
-
-![tumblr_985ea4c18549e687026a4849c1758b87_49cd93bb_400](https://github.com/user-attachments/assets/d148c5a8-8468-4b25-9cba-58472cbb9682)
-
+</p>
+<img
+  src="tumblr_985ea4c18549e687026a4849c1758b87_49cd93bb_400]https://github.com/user-attachments/assets/d148c5a8-8468-4b25-9cba-58472cbb9682"
+  width="300"
+  align="right"
+  /> 
+  </p>
 <hr/>
 <p align="center">
 </p>
