@@ -44,5 +44,6 @@ cr :: <a href="https://x.com/zelyonayatochk"> @zelyonayatochk
   
 </p>
 
-  ![#594D50](https://komarev.com/ghpvc/?username=purple-duo)
+ <a href="https://hits.sh/github.com/purple-duo/"><img alt="Hits" src="https://hits.sh/github.com/convexic.svg?label=bitethepurpleduo&color=756cc6&labelColor=a8aabe&logo=pipecat"/></a>
+
 
